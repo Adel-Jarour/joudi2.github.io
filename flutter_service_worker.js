@@ -3,17 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "877c80077947a9bcaf3c96df52fb4a48",
+  "assets/AssetManifest.json": "2ccb5051e616eef69cac5c09192ca0f0",
 "assets/assets/fonts/Sora-Bold.ttf": "115fa28765f762ccf87f8d9f4d095555",
 "assets/assets/fonts/Sora-Medium.ttf": "64e332141193aeb622230f501446c3dc",
 "assets/assets/fonts/Sora-Regular.ttf": "f91c4379d21d2b0df9f11b85338ddf99",
 "assets/assets/images/call.svg": "f5bfd6b0ce570dbf70b07bf6924e7e88",
 "assets/assets/images/facebook.svg": "8aa10a25fc592fc8e914fca9ae0ddfb4",
 "assets/assets/images/gallery.svg": "c3348de7ca439ba505e62ce1e5f7b478",
+"assets/assets/images/per2.jpg": "4e14f09d244b788674c33f0abb53a225",
 "assets/assets/images/products.svg": "028463ee54cee6602951cc88a98b408a",
 "assets/assets/images/sale.svg": "999112988219a9663f880c0031931359",
 "assets/assets/images/shampoo.svg": "eef29ccb436394aae1eee4be11842470",
-"assets/assets/images/snapchat.svg": "139279d2b48c6b09b323c15aec7cd513",
 "assets/assets/images/team.svg": "37ac6720b3909b574b701a75f16da214",
 "assets/assets/images/tik-tok.svg": "d0ae2b8e81b879464af7eec597b37dce",
 "assets/FontManifest.json": "2773496617b6567ff5094647c752665f",
@@ -34,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "018ca1d3a4c01ed1539f11a85e4dcd96",
-"/": "018ca1d3a4c01ed1539f11a85e4dcd96",
-"main.dart.js": "f66e27fb875815a410d98d48c9f3cac8",
+"index.html": "40c25e4c0b257d2f483651b8662ae3a2",
+"/": "40c25e4c0b257d2f483651b8662ae3a2",
+"main.dart.js": "73567261e54e934cdb591cff5c11ec8f",
 "manifest.json": "d47dcafb16ab1b8bc6131a97bccfe2fb",
 "version.json": "5886728016249ed7d9e095f2af0fc87f"
 };
