@@ -3,14 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2ccb5051e616eef69cac5c09192ca0f0",
+  "assets/AssetManifest.json": "9b244981bd54ebcfbeffd934490bdb34",
 "assets/assets/fonts/Sora-Bold.ttf": "115fa28765f762ccf87f8d9f4d095555",
 "assets/assets/fonts/Sora-Medium.ttf": "64e332141193aeb622230f501446c3dc",
 "assets/assets/fonts/Sora-Regular.ttf": "f91c4379d21d2b0df9f11b85338ddf99",
 "assets/assets/images/call.svg": "f5bfd6b0ce570dbf70b07bf6924e7e88",
 "assets/assets/images/facebook.svg": "8aa10a25fc592fc8e914fca9ae0ddfb4",
 "assets/assets/images/gallery.svg": "c3348de7ca439ba505e62ce1e5f7b478",
+"assets/assets/images/hair.jpg": "9c6aa00a8cb39595980eca97261a2ad2",
 "assets/assets/images/per2.jpg": "4e14f09d244b788674c33f0abb53a225",
+"assets/assets/images/Person-Image.png": "d7175dd34e6b16879938a9c012d7ec16",
+"assets/assets/images/Person-Image3.png": "6fbe39bcf5de027d7e83fffa35474640",
 "assets/assets/images/products.svg": "028463ee54cee6602951cc88a98b408a",
 "assets/assets/images/sale.svg": "999112988219a9663f880c0031931359",
 "assets/assets/images/shampoo.svg": "eef29ccb436394aae1eee4be11842470",
@@ -34,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "40c25e4c0b257d2f483651b8662ae3a2",
-"/": "40c25e4c0b257d2f483651b8662ae3a2",
-"main.dart.js": "73567261e54e934cdb591cff5c11ec8f",
+"index.html": "5687aa3188763e2e5ff46a580d8d8b6c",
+"/": "5687aa3188763e2e5ff46a580d8d8b6c",
+"main.dart.js": "ec4a7ee9df45db922f48218d1163464a",
 "manifest.json": "d47dcafb16ab1b8bc6131a97bccfe2fb",
 "version.json": "5886728016249ed7d9e095f2af0fc87f"
 };
