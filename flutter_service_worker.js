@@ -3,14 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9b244981bd54ebcfbeffd934490bdb34",
+  "assets/AssetManifest.json": "ed2cfec5f74e4279141c039b62b3f7b3",
 "assets/assets/fonts/Sora-Bold.ttf": "115fa28765f762ccf87f8d9f4d095555",
 "assets/assets/fonts/Sora-Medium.ttf": "64e332141193aeb622230f501446c3dc",
 "assets/assets/fonts/Sora-Regular.ttf": "f91c4379d21d2b0df9f11b85338ddf99",
 "assets/assets/images/call.svg": "f5bfd6b0ce570dbf70b07bf6924e7e88",
+"assets/assets/images/damen.jpg": "9c6aa00a8cb39595980eca97261a2ad2",
 "assets/assets/images/facebook.svg": "8aa10a25fc592fc8e914fca9ae0ddfb4",
 "assets/assets/images/gallery.svg": "c3348de7ca439ba505e62ce1e5f7b478",
-"assets/assets/images/hair.jpg": "9c6aa00a8cb39595980eca97261a2ad2",
+"assets/assets/images/herren.jpeg": "231c485fda4f2bd35bf5ddcabe7fbf98",
+"assets/assets/images/kinder.jpeg": "585aabd416550d09fe1411736b9f5e75",
+"assets/assets/images/makeUp.jpeg": "9f9a634be6e4e33139fc7b72b806ccf6",
 "assets/assets/images/per2.jpg": "4e14f09d244b788674c33f0abb53a225",
 "assets/assets/images/Person-Image.png": "d7175dd34e6b16879938a9c012d7ec16",
 "assets/assets/images/Person-Image3.png": "6fbe39bcf5de027d7e83fffa35474640",
@@ -37,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d85ac1a49bc98d34810ed2ffbe174d11",
-"/": "d85ac1a49bc98d34810ed2ffbe174d11",
-"main.dart.js": "bb3cefe08ce54c85b2c3fc782c044143",
+"index.html": "ccc7044e5cc6cd4896acfa4e200a221d",
+"/": "ccc7044e5cc6cd4896acfa4e200a221d",
+"main.dart.js": "e1cb9c3d13fe60c134cf145339cc842c",
 "manifest.json": "d47dcafb16ab1b8bc6131a97bccfe2fb",
 "version.json": "5886728016249ed7d9e095f2af0fc87f"
 };
